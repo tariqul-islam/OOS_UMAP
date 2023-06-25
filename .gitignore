@@ -7,3 +7,4 @@ README.md~
 *.pth
 *.mat
 *.ipynb_checkpoints
+*.pyc
