@@ -3,6 +3,7 @@ data
 README.md~
 *.ipynb
 *.npy
+!repulsion_effect_figure.png
 *.png
 *.pth
 *.mat
