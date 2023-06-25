@@ -1,5 +1,5 @@
 # OOS_UMAP
-Out of Sample Embedding in UMAP.
+Improving Out-of-Sample Embedding in UMAP
 
 This repository contains the code of our paper:
 

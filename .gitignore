@@ -1,5 +1,6 @@
 data
 .gitignore~
+README.md~
 **/MNIST
 #MNIST/data
 #MNIST/mnist_boxplot
