@@ -3,8 +3,8 @@ data
 README.md~
 *.ipynb
 *.npy
-!repulsion_effect_figure.png
 *.png
+!images/repulsion_effect_figure.png
 *.pth
 *.mat
 *.ipynb_checkpoints
