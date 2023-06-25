@@ -1,7 +1,7 @@
 data
 .gitignore~
 README.md~
-*.ipnyb
+*.ipynb
 *.npy
 *.png
 *.pth
